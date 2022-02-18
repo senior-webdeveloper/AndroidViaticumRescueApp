@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ViaticumRescueApp</string>
+    <string name="view_full_site">Погледајте целу страницу</string>
+    <string name="title_activity_welcome_screen">ViaticumRescueApp</string>
+    <string name="title_activity_rescue_manuals">ViaticumRescueApp</string>
+    <string name="title_activity_public_manuals">ViaticumRescueApp</string>
+    <string name="title_activity_loading_screen">ViaticumRescueApp</string>
+    <string name="loading">Лоадинг…</string>
+    <string name="current_language">Тренутни језик: </string>
+    <string name="change_language">-> Промени језик</string>
+    <string name="manuals_for_rescuers">Приручници за спасиоце</string>
+    <string name="manuals_for_general_public">Приручници за ширу јавност</string>
+    <string name="view_website">погледајте веб локацију</string>
+    <string name="videos">Видеос</string>
+    <string name="about">О томе</string>
+</resources>

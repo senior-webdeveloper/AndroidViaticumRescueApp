@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ViaticumRescueApp</string>
+    <string name="view_full_site">Teljes Oldal Megtekintése</string>
+    <string name="title_activity_welcome_screen">ViaticumRescueApp</string>
+    <string name="title_activity_rescue_manuals">ViaticumRescueApp</string>
+    <string name="title_activity_public_manuals">ViaticumRescueApp</string>
+    <string name="title_activity_loading_screen">ViaticumRescueApp</string>
+    <string name="loading">Betöltés…</string>
+    <string name="current_language">Aktuális Nyelv: </string>
+    <string name="change_language">-> Válts Nyelvet</string>
+    <string name="manuals_for_rescuers">Kézikönyvek a mentők számára</string>
+    <string name="manuals_for_general_public">Kézikönyvek a nagyközönség számára</string>
+    <string name="view_website">Weboldal megtekintése</string>
+    <string name="videos">Videók</string>
+    <string name="about">Ról ről</string>
+</resources>

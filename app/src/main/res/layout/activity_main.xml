@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:screenOrientation="portrait"
+    android:background="@color/white"
+    tools:context=".MainActivity">
+
+    <com.github.barteksc.pdfviewer.PDFView
+        android:id="@+id/pdfView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clickable="false"
+        android:forceDarkAllowed="false"
+        app:sb_handlerColor="@color/viaticum_red"
+        app:sb_indicatorColor="@color/viaticum_red"
+        app:sb_indicatorTextColor="@color/viaticum_text_color" />
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

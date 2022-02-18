@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ViaticumRescueApp</string>
+    <string name="view_full_site">View Full Site</string>
+    <string name="title_activity_welcome_screen">ViaticumRescueApp</string>
+    <string name="title_activity_rescue_manuals">ViaticumRescueApp</string>
+    <string name="title_activity_public_manuals">ViaticumRescueApp</string>
+    <string name="title_activity_loading_screen">ViaticumRescueApp</string>
+    <string name="loading">Caricamento in corso…</string>
+    <string name="current_language">Lingua Corrente: </string>
+    <string name="change_language">-> Cambia Lingua</string>
+    <string name="manuals_for_rescuers">Manuali Per Soccorritori</string>
+    <string name="manuals_for_general_public">Manuali per il pubblico in generale</string>
+    <string name="view_website">Sito Web</string>
+    <string name="videos">Videos</string>
+    <string name="about">Informazioni Sull App</string>
+</resources>

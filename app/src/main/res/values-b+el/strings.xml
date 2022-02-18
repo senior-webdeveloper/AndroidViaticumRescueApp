@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ViaticumRescueApp</string>
+    <string name="view_full_site">Προβολή πλήρους ιστότοπου</string>
+    <string name="title_activity_welcome_screen">ViaticumRescueApp</string>
+    <string name="title_activity_rescue_manuals">ViaticumRescueApp</string>
+    <string name="title_activity_public_manuals">ViaticumRescueApp</string>
+    <string name="title_activity_loading_screen">ViaticumRescueApp</string>
+    <string name="loading">Φόρτωση…</string>
+    <string name="current_language">Τρέχουσα γλώσσα: </string>
+    <string name="change_language">-> Αλλαξε γλώσσα</string>
+    <string name="manuals_for_rescuers">Εγχειρίδια για διασώστες</string>
+    <string name="manuals_for_general_public">Εγχειρίδια για το ευρύ κοινό</string>
+    <string name="view_website">Προβολή ιστότοπου</string>
+    <string name="videos">Βίντεο</string>
+    <string name="about">Σχετικά με</string>
+</resources>
